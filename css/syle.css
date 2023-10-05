@@ -1,0 +1,26 @@
+html {
+    background-image: url(../img/sky.jpeg);
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    font: optional;    
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: indigo;
+}
+h3{
+    font-style: italic;
+    color: darkblue;
+}
+.block{
+    width: 350px;
+    background-color: rgb(234, 228, 145);
+    border: 2px solid rgb(122, 117, 117);
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
