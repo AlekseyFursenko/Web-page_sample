@@ -13,11 +13,8 @@ function task_1(){
         case "*":
             alert(`${num1} x ${num2} = ${num1 * num2}`);
             break;
-        case "+":
-            alert(`${num1} + ${num2} = ${num1 + num2}`);
-            break;
         case "/":
-            alert(`${num1} + ${num2} = ${num1 + num2}`);
+            alert(`${num1} / ${num2} = ${num1 / num2}`);
             break;
         default:
             break;
